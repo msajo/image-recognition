@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(217, 127, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-color: aqua;
+}
+.heading{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 85%;
+    font-size: 35px;
+}
+.name_object{
+    font-size: 20px;
+    text-decoration: wavy;
+    font-family: cursive;
+
+}
+.webcam{
+    font-size: 25px;
+    font-family: monospace;
+    font-weight:bolder ;
+}
